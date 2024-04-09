@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cursoEFDatabaseFirst.API", "cursoEFDatabaseFirst.API.csproj", "{542013B3-1350-4E50-B41C-23D7F65B7ECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{542013B3-1350-4E50-B41C-23D7F65B7ECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{542013B3-1350-4E50-B41C-23D7F65B7ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{542013B3-1350-4E50-B41C-23D7F65B7ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{542013B3-1350-4E50-B41C-23D7F65B7ECF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {40E39A12-E074-42EC-A0D1-6DBB087EA48A}
+	EndGlobalSection
+EndGlobal
